@@ -6,3 +6,4 @@
 | 2 | Count of Vowels | Strings | Java | [View Code](./Strings/CountVowels.java) |
 | 3 | Check if Array is Sorted | Arrays | Java | [View Code](./Arrays/isSorted.java) |
 | 4 | Second Largest Element in Array | Arrays | Java | [View Code](./Arrays/SecondLargestElement.java) |
+| 5 | Palindrome Check | Strings | Java | [View Code](./Strings/Palindrome.java) |
