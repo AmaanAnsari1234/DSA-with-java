@@ -11,4 +11,5 @@
 | 7 | First Repeating Element (by index) | Arrays | Java | [View Code](./Arrays/FirstRepeatingElement.java) |
 | 8 | Two Arrays Equal | Arrays | Java | [View Code](./Arrays/TwoArraysEqual.java) |
 | 9 | Count of Distinct Elements | Arrays | Java | [View Code](./Arrays/CountDistinctElements.java) |
+| 10 | First Non-Repeating Element (HashMap) | Arrays | Java | [View Code](./Arrays/FirstNonRepeatingElement.java) |
 
