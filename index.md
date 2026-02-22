@@ -13,3 +13,4 @@
 | 9 | Count of Distinct Elements | Arrays | Java | [View Code](./Arrays/CountDistinctElements.java) |
 | 10 | First Non-Repeating Element (HashMap) | Arrays | Java | [View Code](./Arrays/FirstNonRepeatingElement.java) |
 | 11 | Any Duplicate Element (True/False) | Arrays | Java | [View Code](./Arrays/AnyDuplicateElement.java) |
+| 12 | Majority Element | Arrays | Java | [View Code](./Arrays/MajorityElement.java) |
