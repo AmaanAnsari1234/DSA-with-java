@@ -14,3 +14,4 @@
 | 10 | First Non-Repeating Element (HashMap) | Arrays | Java | [View Code](./Arrays/FirstNonRepeatingElement.java) |
 | 11 | Any Duplicate Element (True/False) | Arrays | Java | [View Code](./Arrays/AnyDuplicateElement.java) |
 | 12 | Majority Element | Arrays | Java | [View Code](./Arrays/MajorityElement.java) |
+| 13 | Pow (x^n) | Recursion | Java | [View Code](./Recursion/PowXN.java) |
