@@ -15,3 +15,4 @@
 | 11 | Any Duplicate Element (True/False) | Arrays | Java | [View Code](./Arrays/AnyDuplicateElement.java) |
 | 12 | Majority Element | Arrays | Java | [View Code](./Arrays/MajorityElement.java) |
 | 13 | Pow (x^n) | Recursion | Java | [View Code](./Recursion/PowXN.java) |
+| 14 | Two Sum | Arrays | Java | [View Code](./Arrays/TwoSum.java) |
