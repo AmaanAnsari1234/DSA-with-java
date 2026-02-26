@@ -17,3 +17,4 @@
 | 13 | Pow (x^n) | Recursion | Java | [View Code](./Recursion/PowXN.java) |
 | 14 | Two Sum | Arrays | Java | [View Code](./Arrays/TwoSum.java) |
 | 15 | Middle of the Linked List | LinkedList | Java | [View Code](./LinkedList/MiddleOfLinkedList.java) |
+| 16 | Remove Duplicates from Sorted Array | Arrays | Java | [View Code](./Arrays/RemoveDuplicatesFromSortedArray.java) |
