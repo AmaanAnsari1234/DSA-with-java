@@ -19,3 +19,4 @@
 | 15 | Middle of the Linked List | LinkedList | Java | [View Code](./LinkedList/MiddleOfLinkedList.java) |
 | 16 | Remove Duplicates from Sorted Array | Arrays | Java | [View Code](./Arrays/RemoveDuplicatesFromSortedArray.java) |
 | 17 | 485. Max Consecutive Ones | Arrays | Java | [View Code](./Arrays/MaxConsecutiveOnes.java) |
+| 18 | 412. Fizz Buzz | Basics | Java | [View Code](./Basics/FizzBuzz.java) |
