@@ -1,2 +1,2 @@
 # DSA-with-java
-Daily DSA practice with Java (2/3 questions per day) 
+Daily Java practice (2/3 questions per day) 
