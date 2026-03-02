@@ -21,3 +21,4 @@
 | 17 | 485. Max Consecutive Ones | Arrays | Java | [View Code](./Arrays/MaxConsecutiveOnes.java) |
 | 18 | 412. Fizz Buzz | Basics | Java | [View Code](./Basics/FizzBuzz.java) |
 | 19 | 455. Assign Cookies (Greedy Algo) | Greedy | Java | [View Code](./Greedy/AssignCookies.java) |
+| 20 | 121. Best Time to Buy and Sell Stock | Arrays | Java | [View Code](./Arrays/BestTimeToBuyAndSellStock.java) |
