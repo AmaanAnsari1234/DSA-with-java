@@ -1,5 +1,5 @@
 // Leet Code Problem NO : 412.
-// Fizz Buzz
+// Fizz Buzz 
 
 
 import java.util.*;
