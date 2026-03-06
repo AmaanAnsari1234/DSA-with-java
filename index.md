@@ -23,3 +23,4 @@
 | 19 | 455. Assign Cookies (Greedy Algo) | Greedy | Java | [View Code](./Greedy/AssignCookies.java) |
 | 20 | 121. Best Time to Buy and Sell Stock | Arrays | Java | [View Code](./Arrays/BestTimeToBuyAndSellStock.java) |
 | 21 | Implement Stack using Arrays | Stack | Java | [View Code](./Stack/StackUsingArray.java) |
+| 22 | 20. Valid Parentheses | Stack | Java | [View Code](./Stack/ValidParentheses.java) |
