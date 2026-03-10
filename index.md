@@ -24,4 +24,5 @@
 | 20 | 121. Best Time to Buy and Sell Stock | Arrays | Java | [View Code](./Arrays/BestTimeToBuyAndSellStock.java) |
 | 21 | Implement Stack using Arrays | Stack | Java | [View Code](./Stack/StackUsingArray.java) |
 | 22 | 20. Valid Parentheses | Stack | Java | [View Code](./Stack/ValidParentheses.java) |
-| 24 | Implement Queue using Array | Queue | Java | [View Code](./Queue/QueueUsingArray.java) |
+| 23 | Implement Queue using Array | Queue | Java | [View Code](./Queue/QueueUsingArray.java) |
+| 24 | 225. Implement Stack using Queues | Queue | Java | [View Code](./Queue/StackUsingQueues.java) |
