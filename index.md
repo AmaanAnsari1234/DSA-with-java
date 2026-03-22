@@ -31,3 +31,4 @@
 | 27 | 209. Minimum Size Subarray Sum | Arrays | Java | [View Code](./Arrays/MinimumSizeSubarraySum.java) |
 | 28 | 424. Longest Repeating Character Replacement | Strings | Java | [View Code](./Strings/LongestRepeatingCharacterReplacement.java) |
 | 29 | 53. Maximum Subarray | Arrays | Java | [View Code](./Arrays/MaximumSubarray.java) |
+
