@@ -32,3 +32,4 @@
 | 28 | 424. Longest Repeating Character Replacement | Strings | Java | [View Code](./Strings/LongestRepeatingCharacterReplacement.java) |
 | 29 | 53. Maximum Subarray | Arrays | Java | [View Code](./Arrays/MaximumSubarray.java) |
 | 30 | 189. Rotate Array | Arrays | Java | [View Code](./Arrays/RotateArray.java) |
+| 31 | 283. Move Zeroes | Arrays | Java | [View Code](./Arrays/MoveZeroes.java) |
