@@ -34,4 +34,4 @@
 | 30 | 189. Rotate Array | Arrays | Java | [View Code](./Arrays/RotateArray.java) |
 | 31 | 283. Move Zeroes | Arrays | Java | [View Code](./Arrays/MoveZeroes.java) |
 | 32 | 141. Linked List Cycle | LinkedList | Java | [View Code](./LinkedList/LinkedListCycle.java) |
-
+| 33 | 3. Longest Substring Without Repeating Characters | Strings | Java | [View Code](./Strings/LongestSubstringWithoutRepeatingCharacters.java) |
