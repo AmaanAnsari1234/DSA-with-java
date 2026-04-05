@@ -39,6 +39,4 @@
 | 35 | 21. Merge Two Sorted Lists | LinkedList | Java | [View Code](./LinkedList/MergeTwoSortedLists.java) 
 | 36 | 104. Maximum Depth of Binary Tree | Tree | Java | [View Code](./Tree/MaximumDepthOfBinaryTree.java) |
 | 37 | 226. Invert Binary Tree | Tree | Java | [View Code](./Tree/InvertBinaryTree.java) |
-
-
-
+| 38 | 155. Min Stack | Stack | Java | [View Code](./Stack/MinStack.java) |
