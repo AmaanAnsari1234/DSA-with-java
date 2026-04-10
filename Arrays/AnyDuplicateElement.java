@@ -4,7 +4,6 @@
 
 import java.util.*;
 
-
 public class P12 {
 
     static boolean containsDuplicate(int[] arr) {
