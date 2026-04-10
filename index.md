@@ -43,3 +43,5 @@
 | 39 | Longest Lucky Path (Even Nodes) | Tree | Java | [View Code](./Tree/LongestLuckyPath.java) |
 | 40 | Minimum Time to Spread Signal (Tree BFS) | Tree | Java | [View Code](./Tree/MinTimeToSpreadSignal.java) |
 
+
+
