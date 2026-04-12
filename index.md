@@ -42,7 +42,4 @@
 | 38 | 155. Min Stack | Stack | Java | [View Code](./Stack/MinStack.java) |
 | 39 | Longest Lucky Path (Even Nodes) | Tree | Java | [View Code](./Tree/LongestLuckyPath.java) |
 | 40 | Minimum Time to Spread Signal (Tree BFS) | Tree | Java | [View Code](./Tree/MinTimeToSpreadSignal.java) |
-
-
-
-
+| 41 | Burning Tree Problem (Fire Spread in Binary Tree) | Tree | Java | [View Code](./Tree/BurningTree.java) |
