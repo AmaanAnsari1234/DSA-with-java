@@ -26,6 +26,13 @@ public class P19 {
 
         return left + right + 1;
     }
+     /*
+                1
+               / \
+              2   3
+             / \
+            4   5
+        */
 
     public static void main(String[] args) {
         Node root = new Node(1);
