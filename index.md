@@ -43,3 +43,4 @@
 | 39 | Longest Lucky Path (Even Nodes) | Tree | Java | [View Code](./Tree/LongestLuckyPath.java) |
 | 40 | Minimum Time to Spread Signal (Tree BFS) | Tree | Java | [View Code](./Tree/MinTimeToSpreadSignal.java) |
 | 41 | Burning Tree Problem (Fire Spread in Binary Tree) | Tree | Java | [View Code](./Tree/BurningTree.java) |
+| 42 | Count Total Nodes in a Binary Tree | Tree | Java | [View Code](./Tree/CountTotalNodes.java) |
