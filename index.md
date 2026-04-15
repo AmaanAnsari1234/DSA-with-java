@@ -44,3 +44,4 @@
 | 40 | Minimum Time to Spread Signal (Tree BFS) | Tree | Java | [View Code](./Tree/MinTimeToSpreadSignal.java) |
 | 41 | Burning Tree Problem (Fire Spread in Binary Tree) | Tree | Java | [View Code](./Tree/BurningTree.java) |
 | 42 | Count Total Nodes in a Binary Tree | Tree | Java | [View Code](./Tree/CountTotalNodes.java) |
+| 43 | Sum of All Nodes in a Binary Tree | Tree | Java | [View Code](./Tree/SumOfAllNodes.java) |
