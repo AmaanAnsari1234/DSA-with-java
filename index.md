@@ -45,3 +45,4 @@
 | 41 | Burning Tree Problem (Fire Spread in Binary Tree) | Tree | Java | [View Code](./Tree/BurningTree.java) |
 | 42 | Count Total Nodes in a Binary Tree | Tree | Java | [View Code](./Tree/CountTotalNodes.java) |
 | 43 | Sum of All Nodes in a Binary Tree | Tree | Java | [View Code](./Tree/SumOfAllNodes.java) |
+| 44 | 98. Validate Binary Search Tree | Tree | Java | [View Code](./Tree/ValidateBinarySearchTree.java) |
