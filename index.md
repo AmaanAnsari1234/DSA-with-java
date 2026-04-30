@@ -1,4 +1,4 @@
-# 📘 DSA Code Index
+# 📘 Index
 -- https://drive.google.com/file/d/1UeSCAZOlJoqQp0PqQDtkk6E5uaFfQ8S8/view  250 QUESTION
 -- https://drive.google.com/drive/folders/1-Gkbjcr08_oSDNWLeMW7JrtBSHbgiPMC TCS PREP
 | No. | Problem | Topic | Language | Link |
