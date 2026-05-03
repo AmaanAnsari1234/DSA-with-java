@@ -56,3 +56,4 @@
 | 50 | 278. First Bad Version | BinarySearch | Easy | [View Code](./BinarySearch/FirstBadVersion.java) |
 | 51 | 35. Search Insert Position | BinarySearch | Java | [View Code](./BinarySearch/SearchInsertPosition.java) |
 
+
