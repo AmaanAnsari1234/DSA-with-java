@@ -55,5 +55,5 @@
 | 49 | 66. Plus One | Arrays | Easy | [View Code](./Arrays/PlusOne.java) |
 | 50 | 278. First Bad Version | BinarySearch | Easy | [View Code](./BinarySearch/FirstBadVersion.java) |
 | 51 | 35. Search Insert Position | BinarySearch | Java | [View Code](./BinarySearch/SearchInsertPosition.java) |
-
+| 52 | 705. Design HashSet | Hashing | Easy | [Code](./Hashing/DesignHashSet.java) • [LC](https://leetcode.com/problems/design-hashset/) |
 
