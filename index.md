@@ -58,3 +58,4 @@
 | 52 | 705. Design HashSet | Hashing | Easy | [Code](./Hashing/DesignHashSet.java) • [LC](https://leetcode.com/problems/design-hashset/) |
 | 53 | 706. Design HashMap | Hashing | Easy | [Code](./Hashing/DesignHashMap.java) • [LC](https://leetcode.com/problems/design-hashmap/) |
 | 53 | 206. Reverse Linked List | LinkedList | Easy | [Code](./LinkedList/ReverseLinkedList.java) • [LC](https://leetcode.com/problems/reverse-linked-list/) |
+
