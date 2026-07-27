@@ -54,7 +54,7 @@
 | 48 | 102. Binary Tree Level Order Traversal | Tree | Medium | [View Code](./Tree/BinaryTreeLevelOrderTraversal.java) |
 | 49 | 66. Plus One | Arrays | Easy | [View Code](./Arrays/PlusOne.java) |
 | 50 | 278. First Bad Version | BinarySearch | Easy | [View Code](./BinarySearch/FirstBadVersion.java) |
-| 51 | 35. Search Insert Position | BinarySearch | Java | [View Code](./BinarySearch/SearchInsertPosition.java) |
+| 51 | 35. Search Insert Position | BinarySearch | Medium | [View Code](./BinarySearch/SearchInsertPosition.java) |
 | 52 | 705. Design HashSet | Hashing | Easy | [Code](./Hashing/DesignHashSet.java) • [LC](https://leetcode.com/problems/design-hashset/) |
 | 53 | 706. Design HashMap | Hashing | Easy | [Code](./Hashing/DesignHashMap.java) • [LC](https://leetcode.com/problems/design-hashmap/) |
 | 53 | 206. Reverse Linked List | LinkedList | Easy | [Code](./LinkedList/ReverseLinkedList.java) • [LC](https://leetcode.com/problems/reverse-linked-list/) |
